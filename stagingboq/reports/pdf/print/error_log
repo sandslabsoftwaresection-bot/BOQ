@@ -1,0 +1,5 @@
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 101
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 112
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 187
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 234
+[11-Sep-2025 12:43:12 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home2/sapphire/boq.sapphirebh.com/stagingboq/reports/pdf/print/bill_of_quantity_print.php on line 213

@@ -1,0 +1,22 @@
+[25-Jan-2021 08:55:43 UTC] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[25-Jan-2021 08:55:43 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[25-Jan-2021 08:55:43 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=34421 in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[25-Jan-2021 08:55:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[25-Jan-2021 08:55:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 266
+[25-Jan-2021 08:55:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 267
+[19-Mar-2021 06:09:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[19-Mar-2021 06:09:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 266
+[19-Mar-2021 06:09:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 267
+[19-Mar-2021 06:09:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[19-Mar-2021 06:09:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 266
+[19-Mar-2021 06:09:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 267
+[19-Mar-2021 06:09:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[19-Mar-2021 06:09:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 266
+[19-Mar-2021 06:09:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 267
+[19-Mar-2021 06:10:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[19-Mar-2021 06:10:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 266
+[19-Mar-2021 06:10:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 267
+[19-Mar-2021 06:10:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[19-Mar-2021 06:10:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 266
+[19-Mar-2021 06:10:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 267
+[15-Dec-2021 06:38:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php70/sess_1u0ufe2i3m5ci3kl2k11dl6ml4, O_RDWR) failed: No space left on 

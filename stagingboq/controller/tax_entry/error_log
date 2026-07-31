@@ -1,0 +1,2 @@
+[15-Jan-2021 08:50:18 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 13:44:54 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51

@@ -1,0 +1,6 @@
+[19-Aug-2025 15:30:20 Asia/Kolkata] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/add_user/user_controller.php on line 67
+[19-Aug-2025 10:05:33 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/add_user/user_controller.php on line 63
+[19-Aug-2025 10:07:03 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/add_user/user_controller.php on line 63
+[19-Aug-2025 10:09:03 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/add_user/user_controller.php on line 63
+[19-Aug-2025 10:13:39 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/add_user/user_controller.php on line 63
+[19-Aug-2025 10:15:00 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/add_user/user_controller.php on line 63

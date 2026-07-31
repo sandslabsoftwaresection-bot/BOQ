@@ -1,0 +1,135 @@
+[24-Jan-2025 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 06:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 06:02:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 06:05:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 06:07:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 07:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 07:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 07:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 08:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 08:42:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:83
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(104): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 08:55:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:121
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(146): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 121
+[24-Jan-2025 09:30:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:76
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(97): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 76
+[24-Jan-2025 09:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:76
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(97): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 76
+[24-Jan-2025 09:37:05 UTC] Processing product: Array
+(
+    [project_name] => Project1
+    [item_name] => test D88
+    [quantity] => 20
+    [units] => nos
+    [rate_unit] => 7.8
+    [amount] => 156
+)
+
+[24-Jan-2025 09:37:05 UTC] Executing SQL: INSERT INTO `master_finished_quick_item_details_entry` 
+                            (`master_product_quick_id`, `project_id`, `project_name`, `item_name`, `quantity`, `units`, `rate_per_unit`, `total_amount`) 
+                            VALUES ('3','3','Project1','test D88','20','nos','7.8','156')
+[24-Jan-2025 09:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:79
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(103): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 79
+[24-Jan-2025 09:39:44 UTC] Processing product: Array
+(
+    [project_name] => Project1
+    [item_name] => test D88
+    [quantity] => 20
+    [units] => nos
+    [rate_unit] => 7.8
+    [amount] => 156
+)
+
+[24-Jan-2025 09:39:44 UTC] Executing SQL: INSERT INTO `master_finished_quick_item_details_entry` 
+                            (`master_product_quick_id`, `project_id`, `project_name`, `item_name`, `quantity`, `units`, `rate_per_unit`, `total_amount`) 
+                            VALUES ('4','4','Project1','test D88','20','nos','7.8','156')
+[24-Jan-2025 09:39:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:79
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(103): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 79
+[24-Jan-2025 09:40:30 UTC] Processing product: Array
+(
+    [project_name] => Project1
+    [item_name] => test D88
+    [quantity] => 20
+    [units] => nos
+    [rate_unit] => 7.8
+    [amount] => 156
+)
+
+[24-Jan-2025 09:40:30 UTC] Executing SQL: INSERT INTO `master_finished_quick_item_details_entry` 
+                            (`master_product_quick_id`, `project_id`, `project_name`, `item_name`, `quantity`, `units`, `rate_per_unit`, `total_amount`) 
+                            VALUES ('1','1','Project1','test D88','20','nos','7.8','156')
+[24-Jan-2025 09:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CommonModel::getLastError() in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php:79
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php(103): QuickController->RequestAccept('add_to_master_m...')
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 79
+[24-Jan-2025 10:03:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 82
+[24-Jan-2025 10:03:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 10:03:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 85
+[24-Jan-2025 10:03:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 82
+[24-Jan-2025 10:03:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 10:03:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 85
+[24-Jan-2025 10:03:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 82
+[24-Jan-2025 10:03:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 10:03:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 85
+[24-Jan-2025 10:03:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 82
+[24-Jan-2025 10:03:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 10:03:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 85
+[24-Jan-2025 10:06:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 10:06:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 85
+[24-Jan-2025 10:06:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 83
+[24-Jan-2025 10:06:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/quick_calculator/quick_calculator_controller.php on line 85

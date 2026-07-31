@@ -1,0 +1,2 @@
+[26-Nov-2024 07:01:44 UTC] PHP Parse error:  syntax error, unexpected '$updateQuery' (T_VARIABLE), expecting ',' or ';' in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/store/store_controller.php on line 120
+[26-Nov-2024 07:01:44 UTC] PHP Parse error:  syntax error, unexpected '$updateQuery' (T_VARIABLE), expecting ',' or ';' in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/store/store_controller.php on line 120

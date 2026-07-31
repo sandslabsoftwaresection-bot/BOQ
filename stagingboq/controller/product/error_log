@@ -1,0 +1,36 @@
+[26-Nov-2024 11:16:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 56
+[26-Nov-2024 11:17:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 56
+[26-Nov-2024 11:17:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 56
+[26-Nov-2024 11:19:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 56
+[29-Jul-2025 05:19:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/db_connection/connection.php on line 8
+[29-Jul-2025 05:19:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 594
+[29-Jul-2025 05:19:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 595
+[29-Jul-2025 05:19:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on boolean in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php:26
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php(449): UnitController->__construct()
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php on line 26
+[29-Jul-2025 05:19:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/db_connection/connection.php on line 8
+[29-Jul-2025 05:19:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 594
+[29-Jul-2025 05:19:53 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 595
+[29-Jul-2025 05:19:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on boolean in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php:26
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php(449): UnitController->__construct()
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php on line 26
+[29-Jul-2025 05:20:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/db_connection/connection.php on line 8
+[29-Jul-2025 05:20:05 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 594
+[29-Jul-2025 05:20:05 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 595
+[29-Jul-2025 05:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on boolean in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php:26
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php(449): UnitController->__construct()
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php on line 26
+[29-Jul-2025 05:20:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/db_connection/connection.php on line 8
+[29-Jul-2025 05:20:05 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 594
+[29-Jul-2025 05:20:05 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/stagingboq/model/common/common_functions.php on line 595
+[29-Jul-2025 05:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on boolean in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php:26
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php(449): UnitController->__construct()
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/stagingboq/controller/product/product_controller.php on line 26

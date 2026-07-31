@@ -1,0 +1,11 @@
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 101
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 112
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 187
+[12-Aug-2024 12:17:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 234
+[22-Sep-2024 07:58:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 101
+[22-Sep-2024 07:58:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 112
+[22-Sep-2024 07:58:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 187
+[22-Sep-2024 07:58:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/primary_cost_print1.php on line 234
+[06-Oct-2024 08:41:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/master_product_print.php on line 101
+[06-Oct-2024 08:41:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/master_product_print.php on line 187
+[06-Oct-2024 08:41:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/reports/pdf/print/master_product_print.php on line 234

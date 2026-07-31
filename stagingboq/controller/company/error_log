@@ -1,0 +1,16 @@
+[15-Jan-2021 07:24:10 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 07:24:17 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 07:43:32 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 08:49:45 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 09:00:06 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 09:04:49 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 13:21:58 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[15-Jan-2021 13:23:05 Asia/Bahrain] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 51
+[21-Jan-2021 14:37:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home2/sapphire/boq.sapphirebh.com/model/db_connection/connection.php on line 8
+[21-Jan-2021 14:37:31 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 565
+[21-Jan-2021 14:37:31 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/sapphire/boq.sapphirebh.com/model/common/common_functions.php on line 566
+[21-Jan-2021 14:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on boolean in /home2/sapphire/boq.sapphirebh.com/controller/company/profile_controller.php:26
+Stack trace:
+#0 /home2/sapphire/boq.sapphirebh.com/controller/company/profile_controller.php(110): companyController->__construct()
+#1 {main}
+  thrown in /home2/sapphire/boq.sapphirebh.com/controller/company/profile_controller.php on line 26
